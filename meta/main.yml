@@ -1,0 +1,2 @@
+galaxy_info:
+  description: Ansible role for installation and configuration of Tinc VPN
